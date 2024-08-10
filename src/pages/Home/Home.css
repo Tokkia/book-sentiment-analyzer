@@ -1,9 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
 .main {
     width: 100%;
     height: 100vh;
@@ -16,14 +10,14 @@ video {
 }
 
 .content {
-    position:fixed;
+    position: fixed;
     width: 100%;
     height: 100%;
-    top: 0;
     display: flex;
+    top: 0;
     flex-direction: column;
     justify-content: center;
-    align-items: left;
+    align-items: center;
     color: white;
 }
 
