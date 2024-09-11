@@ -1,4 +1,4 @@
-# Entertainment Archive
+# News Sentiment Analyzer
 ## 1 Introduction
 ### 1.1 Purpose
 A website that stores and displays ratings on movies, shows, and novels of all kinds.
